@@ -25,7 +25,7 @@ deactivate
 ```
 pip install -r requirements.txt
 ```
-Запускаем бота
+Запускаем осноной модуль
 ```
 python main.py
 ```
